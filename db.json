@@ -1,16 +1,12 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "recarga"
     },
     {
       "id": 2,
-      "title": "hllo"
+      "title": "cine"
     }
-  ],
-  "productID":12,
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
