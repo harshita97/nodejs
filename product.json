@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "recarga"
+    },
+    {
+      "id": 2,
+      "title": "cine"
+    }
+  ]
+}
